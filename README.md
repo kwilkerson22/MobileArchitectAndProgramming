@@ -15,7 +15,7 @@ I used a modular approach while coding this app. I structured separate activitie
 
 **How did you test to ensure your code was functional? Why is this process important, and what did it reveal?**
 
-After adding new elements to a screen I would test the functionality using the emulator. This is important because it helps narrow downs the sections of code that need to be revised before continuing with the project. For example, I realized at one point in my development process that I needed to fix the intents so that the user can move from screen to screen properly.
+After adding new elements to a screen I would test the functionality using the emulator. This is important because it helps narrow down the sections of code that need to be revised before continuing with the project. For example, I realized at one point in my development process that I needed to fix the intents so that the user can move from screen to screen properly.
 
 **Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?**
 
