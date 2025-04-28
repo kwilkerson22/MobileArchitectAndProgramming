@@ -3,7 +3,7 @@
 
 **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
 
-I developed a weight tracking app using Android Studio. I wanted to allow users to log their weight entries, set a goal weight and easily track their progress. I also added a login/create account screen so that users can securely access and save their data. Users needed the ability to record and view their weight over time. They also needed to be able to set a personal goal weight and receive confirmation through SMS if setting is enabled. They also needed to be able to securely login and create an account to protect their personal data. Lastly, they needed to be able to Logout to keep their account private. 
+I developed a weight tracking app using Android Studio. I wanted to allow users to log their weight entries, set a goal weight and easily track their progress. I also added a login/create account screen so that users can securely access and save their data. Users needed the ability to record and view their weight over time. They also needed to be able to set a personal goal weight and receive confirmation through SMS if the setting is enabled. They also needed to be able to securely login and create an account to protect their personal data. Lastly, they needed to be able to Logout to keep their account private. 
 
 **What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?**
 
