@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kenneth Wilkerson Project 3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome">Welcome!</string>
+    <string name="goals">Goals</string>
+    <string name="enter_goal_weight">Enter Goal Weight</string>
+    <string name="receive_sms_notifications">Receive SMS Notifications?</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="Encouragement">You\'re making great progress!</string>
+    <string name="Acknowledgement">Saved Goal Weight ###</string>
+    <string name="add">Add</string>
+    <string name="enter">Enter new weight</string>
+    <string name="log">Weight Log</string>
+    <string name="weight_log_entries">Weight Log Entries</string>
+    <string name="move_to_goal_screen">Move to Goal Screen</string>
+    <string name="switch_to_goal_screen">Switch to Goal Screen</string>
+    <string name="logout">Logout</string>
+    <string name="goal_saved_message">Goal saved: %1$s lbs</string>
+</resources>
